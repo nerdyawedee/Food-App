@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +6,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+   font-family: 'Rubik', sans-serif;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+    
 }
+.object-fit-cover{
+  object-fit: cover;
+}
+#carousel{
+  margin-top: 90px;
+  max-height: 800px
+  
+}
+/* #la>img{
+   max-height:100px ;
+   height: 100px;
+} */

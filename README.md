@@ -1,5 +1,5 @@
 # Food-App
-This is a My first (Beginner Level) MERN project <br/>
+(Beginner Level) MERN project <br/>
 <hr/>
 Demo of my Project<br/>
 
@@ -9,7 +9,7 @@ Demo of my Project<br/>
 <br/>
 <h>Tech used </h>
 <p>* Mongodb *Mongoose * Express.js  * React.js  * Node.js  * Bootstrap v5</p>
-<h1>You Can Fork The Project For Following the commands </h1>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

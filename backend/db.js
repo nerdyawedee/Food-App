@@ -1,6 +1,6 @@
 // connecting express to mongodb
 const mongoose = require('mongoose');
-const mongoUri = "mongodb+srv://gofood:<password>@cluster0.hlknrya.mongodb.net/<databas_name>?retryWrites=true&w=majority";
+const mongoUri = "mongodb+srv://gofood:<password>@cluster0.hlknrya.mongodb.net/<database_name>?retryWrites=true&w=majority";
 
 const Mongodb = async () => {
   try {
